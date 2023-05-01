@@ -57,14 +57,14 @@
 
         <RadioButton
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:fontFamily="@font/poppins"
             android:layout_weight="1"
             android:text="Pria" />
 
         <RadioButton
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:fontFamily="@font/poppins"
             android:layout_weight="1"
             android:text="Wanita" />
@@ -81,20 +81,20 @@
         <CheckBox
             android:layout_width="match_parent"
             android:fontFamily="@font/poppins"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:layout_weight="1"
             android:text="HIMA" />
 
         <CheckBox
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:fontFamily="@font/poppins"
             android:layout_weight="1"
             android:text="BEM" />
 
         <CheckBox
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:fontFamily="@font/poppins"
             android:layout_weight="1"
             android:text="IMM" />
